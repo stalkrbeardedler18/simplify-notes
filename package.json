@@ -1,0 +1,16 @@
+{
+  "name": "simplify-notes",
+  "version": "1.0.0",
+  "description": "A minimalistic note-taking application that emphasizes simplicity and ease of use by focusing on a clean, distraction-free interface.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
